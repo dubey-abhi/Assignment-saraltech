@@ -12,8 +12,9 @@ This repository contains my solutions for the SaralTech™ Web Development Train
 
 After uploading to GitHub Pages, you can view here:
 
-👉 `https://yourusername.github.io/repositoryname/`
-
+👉https://dubey-abhi.github.io/Assignment-saraltech/index.html
+    for the other  https://dubey-abhi.github.io/Assignment-saraltech/flexbox.html
+   and   https://dubey-abhi.github.io/Assignment-saraltech/interactive.html
 ---
 
 Thank you for reviewing my work!
