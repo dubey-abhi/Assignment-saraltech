@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+header, footer {
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem;
+}
+.box {
+  background-color: #61dafb;
+  color: #333;
+  flex: 1 1 200px;
+  min-height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  transition: transform 0.3s;
+}
+.box:hover {
+  transform: scale(1.05);
+}
+@media (max-width: 600px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
